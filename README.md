@@ -53,6 +53,30 @@ Completed Activities
 - Built a correlation heatmap.
 - Identified trends and relationships within the data.
 
+Week 3: Predictive Modeling and Algorithm Selection  
+Prepare the cleaned dataset for machine learning.
+Select relevant clinical features for CKD prediction.
+Split the dataset into training and testing sets.
+Train multiple machine learning models (Logistic Regression, Decision Tree, Random Forest, etc.).
+Compare model performance using evaluation metrics.
+Evaluate models using Accuracy, Precision, Recall, F1-Score, and ROC-AUC Score.
+Select the best-performing model based on prediction performance.
+Save the trained model for deployment and future predictions.
+
+Week 4: Clinical Evaluation, Dashboarding, and Final Deployment
+Evaluate the selected model using a Confusion Matrix.
+Analyze model performance using Precision, Recall, ROC-AUC Score, and Accuracy.
+Design an interactive Power BI dashboard.
+Display KPIs such as Total Patients, CKD Patients, Healthy Patients, and Model Accuracy.
+Visualize patient risk distribution using a Donut Chart.
+Compare CKD cases across different age groups using Bar Charts.
+Display average biomarker levels using Column Charts.
+Add gauges for Precision, Recall, and ROC-AUC Score.
+Include a Confusion Matrix for model evaluation.
+Add interactive filters for Gender, Age Group, Hypertension, Diabetes, and Smoking Status.
+Display sample patient prediction results with Risk Level and CKD Probability.
+Finalize the dashboard and prepare the project for presentation and deployment.
+
 ---
 
 📌 Key Skills Practiced
